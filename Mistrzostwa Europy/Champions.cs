@@ -121,6 +121,7 @@ namespace Mistrzostwa_Europy
             champ = Tournament(final0, final1);
             Console.WriteLine();
             Console.WriteLine(champ + " IS THE NEW EUROPE FOOTBALL CHAMPION");
+            Console.ReadKey();
         }
     }
 }
